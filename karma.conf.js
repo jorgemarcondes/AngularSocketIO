@@ -13,8 +13,8 @@ module.exports = function(config) {
     files: [
       'test/lib/angular.js',
       'test/lib/angular-mocks.js',
-      'test/ng-socket-io.spec.js',
-      'src/ng-socket-io.js'
+      'test/angular-socket-io.spec.js',
+      'src/angular-socket-io.js'
     ],
 
 
