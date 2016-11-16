@@ -1,6 +1,5 @@
-ngSocketIO
+AngularSocketIO
 ===========
-[![Build Status](https://travis-ci.org/mbenford/ngSocketIO.png?branch=master)](https://travis-ci.org/mbenford/ngSocketIO)
 
 Socket.IO module for AngularJS
 
