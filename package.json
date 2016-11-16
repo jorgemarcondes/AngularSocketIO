@@ -3,13 +3,13 @@
         "name": "Michael Benford",
         "email": "michael@michaelbenford.net"
     },
-    "name": "ng-socket-io",
+    "name": "angular-socket-io",
     "version": "0.2.0",
     "description": "SocketIO module for AngularJS",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mbenford/ngSocketIO.git"
+        "url": "https://github.com/jorgemarcondes/AngularSocketIO.git"
     },
     "scripts": {
         "test": "grunt test"
