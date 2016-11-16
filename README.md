@@ -10,7 +10,7 @@ Socket.IO module for AngularJS
 
 ## Installing
 
-Simply download either `ng-socket-io` or `ng-socket-io.min.js` from the build folder and add it to your web application. Just make sure it's included after the AngularJS script.
+Simply download either `angular-socket-io` or `angular-socket-io.min.js` from the build folder and add it to your web application. Just make sure it's included after the AngularJS script.
 
 ## Usage
 
@@ -21,7 +21,7 @@ Simply download either `ng-socket-io` or `ng-socket-io.min.js` from the build fo
 ## Example
 
     <script src="angular.js"></script>
-    <script src="ng-socket-io.js"></script>
+    <script src="angular-socket-io.js"></script>
     <script>
         var myApp = angular.module('myApp', ['socket-io']);
         myApp.controller('MyCtrl', function($scope, socket) {
