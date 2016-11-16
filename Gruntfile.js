@@ -5,12 +5,12 @@ module.exports = function(grunt) {
         pkg: grunt.file.readJSON('package.json'),
         files: {
             js: {
-                src: 'src/ng-socket-io.js',
+                src: 'src/angular-socket-io.js',
                 out: 'build/<%= pkg.name %>.js',
                 outMin: 'build/<%= pkg.name %>.min.js'
             },
             spec: {
-                src: 'test/ng-socket-io.spec.js'
+                src: 'test/angular-socket-io.spec.js'
             }
         },
         // Validates the JS file with JSHint
